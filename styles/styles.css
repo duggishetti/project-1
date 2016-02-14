@@ -1,0 +1,31 @@
+
+ul#menu {
+    padding: 0;
+}
+body {
+  #  background-color: whitesmoke;
+    #font-family: sans-serif;
+}
+ul.menu li {
+    display: inline;
+}
+ul.menu li a {
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 4px 4px 4px 4px;
+}
+li {
+    display: list-item;
+}
+h1 {
+    text-align: center;
+    color: darkturquoise;
+}
+h3 {
+    text-align: center;
+    color: black;
+}
+img {
+    width: 23%;
+    height: 350px;
+}
